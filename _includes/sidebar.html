@@ -1,0 +1,25 @@
+<section class="sidebar">
+<div class="profile">
+    <!--profile picture-->
+    <a href="{{ "/" | relative_url}}">
+        <img id="profile_pic" width=auto src="{{ site.profile_pic | relative_url }}" alt="{{ site.name }}" >
+    </a>
+    
+    <!--name-->
+    <p id="name">{{site.name}}</p>
+
+    {%- include profile.html -%}
+
+    <!--icon-->
+    <a href="https://github.com/{{ site.github_id }}" target="_blank">
+        <i id="icon_github" class="fab fa-github"></i>
+    </a>
+
+    <!--license-->
+    <p id="license"> Copyrights. {{ "now" | date: "%Y" }}. {{ site.name }}. Alrights reserved. </p>
+
+</div>
+
+<div class="history">
+</div>
+</section>

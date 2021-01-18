@@ -1,0 +1,52 @@
+
+#include <DRIMLINER.h>
+
+buzzerModule buzzer;
+
+
+buttonModule button1(5);
+buttonModule button2(6);
+xlMotor xl1(1);
+xlMotor xl2(5);
+
+temperatureModule temper(1);
+ledModule led(0);
+irModule ir(4);
+
+
+
+void setup() {
+
+  xl1.jointMode();
+  xl2.jointMode();
+
+
+}
+
+void loop() {
+  
+
+//기능1의 발판과 책상 리프트
+  
+  if(button1.read()==HIGH && button2.read()==HIGH)
+  {
+    xl1.jointMove(850);
+    xl2.jointMove(700); 
+  }
+
+  else {
+           xl1.jointMove(700);
+           xl2.jointMove(850);
+        }
+
+
+
+//기능2의 허리-up!
+
+  if(temper.read()>=34 && ir.read()>=1000)
+   led.on();
+  else led.off();
+
+
+
+}

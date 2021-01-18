@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="{{ site.html_lang }}">
+
+<head>
+  {%- include head.html -%}
+</head>
+
+<body>
+    <main class="container">
+        {%- include sidebar.html -%}
+        
+        <section class="content">
+            <a href="{{baseurl}}/"><h1 id="blogtitle">{{site.title}}</h1></a>
+                {{ content }}
+        </section>
+    </main>
+    </body>
+</html>
