@@ -31,12 +31,12 @@ categories: profile
   
 ## 2019  
 **08.18-08.20. [설계] 산지 및 오지 지역 주민을 위한 공공 Wifi 중계장치 설계 - 우수설계상 [[Desc]](../wifi/0.html) [[PDF]](../file/2019-wifi/ppt.pdf)**  
-**2019.12.- 02. 미국 People Space 인턴십 [[Desc]]()**  
+**12.-2020.02. 미국 People Space 인턴십 [[Desc]]()**  
 
 ## 2020  
-**2020.11.06 Corona Virus가 서민 경제에 미친 영향에 대해 데이터 분석 및 시각화 - 장려상**  
-**2020.08. 통일빅데이터센터 KUBiC 자료분석 및 서비스팀 연구 조교**  
+**11.06 Corona Virus가 서민 경제에 미친 영향에 대해 데이터 분석 및 시각화 - 장려상**  
+**08. 통일빅데이터센터 KUBiC 자료분석 및 서비스팀 연구 조교**  
 
 ## 2021  
-**[[Research Essay] Raspberry Pi]**   
-**[2021.01.14.-01.16. [설계] 독거노인을 위한 ARS복약알림서비스.]**  
+**01.06. [Research Essay] Developers Should Know About Raspberry Pi [[PDF]](../file/2021-raspberrypi/ResearchEssay_raspberrypi.pdf)**   
+**01.14.-01.16. [설계] 독거노인을 위한 ARS복약알림서비스.**  
