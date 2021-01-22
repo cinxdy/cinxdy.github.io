@@ -32,8 +32,11 @@ categories: profile
 ## 2018  
 07.-08. [봉사] SW교육봉사단 아두이노 교육 [[Desc]](../sw1/0.html)  
 07.30. [디자인] 자원재활용공모전 참여 [[Desc]](../recycle/0.html)  
+12.07. 한동 C언어 코딩 대회 - 최우수상(2등) [[Desc]]()  
   
 ## 2019  
+02.-06.(봄학기) [TA] Calculus1, Calculus2 조교  
+08.-12.(가을학기) [TA] 물리학1, 물리학2 조교  
 **08.18.-08.20. [설계] 산지 및 오지 지역 주민을 위한 공공 Wifi 중계장치 설계 - 우수설계상 [[Desc]](../wifi/0.html) [[PDF]](../file/2019-wifi/ppt.pdf)**  
 **01.02.-02.22. 미국 People Space 인턴십 [[Desc]](../peoplespace/0.html)**  
 
