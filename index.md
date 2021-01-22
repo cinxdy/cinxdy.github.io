@@ -5,6 +5,10 @@ date:   2021-01-17
 categories: profile  
 ---
 
+## 2012 - 2014  NBS(난방)  
+2013.11.15. [UCC] 축제 특별 영상  
+2013.11.12.-2014.2.9.(90일) [UCC] 졸업 축하 영상 Con'graduation!  
+
 ## 2015  
 04.07.-10.20. [소논문] 이온에 따른 단백질의 응고 상태 관찰 [[Desc]](../soongeuihonors/0.html) [[PDF]](../file/2015-soongeuihonors/poster.pdf)  
 **05.14. [소논문] LiFi 상용화 [[Desc]](../lifi/0.html) [[PDF]](../file/2015-lifi/Research_LiFi.pdf)**    
@@ -16,7 +20,7 @@ categories: profile
 02.02.-10.18. [활동] 동작구 청소년 참여위원회 [[Desc]](../ddaom/0.html)  
 06.03. [글] 김홍도에 대하여 [[Desc]](../hongdo/0.html)  
 07.25.-07.30. [활동] 동북아 평화 기행 [[Desc]](../changbai/0.html)  
-**07.20.-08.20 [설계] 척추측만증 환자를 위한 스마트 의자 설계 - 이화여자대학교 공과대학장상 [[Desc]](../drimcontest/0.html)[[PDF]](../file/2016-drimcontest/report.pdf)**  
+**07.20.-08.20. [설계] 척추측만증 환자를 위한 스마트 의자 설계 - 이화여자대학교 공과대학장상 [[Desc]](../drimcontest/0.html)[[PDF]](../file/2016-drimcontest/report.pdf)**  
 **08.18. [소논문] 가정용품을 이용한 소리 증폭 연구 [[Desc]](../frequency/0.html) [[PDF]](file/2016-frequency/ResearchEssay_frequency.pdf)**  
 11.05.-11.06 [활동] 광주 민주화 운동 답사 [[Desc]](../gwangju/0.html)  
   
@@ -27,16 +31,16 @@ categories: profile
   
 ## 2018  
 07.-08. [봉사] SW교육봉사단 아두이노 교육 [[Desc]](../sw1/0.html)  
-07.30 [디자인] 자원재활용공모전 참여 [[Desc]](../recycle/0.html)  
+07.30. [디자인] 자원재활용공모전 참여 [[Desc]](../recycle/0.html)  
   
 ## 2019  
-**08.18-08.20. [설계] 산지 및 오지 지역 주민을 위한 공공 Wifi 중계장치 설계 - 우수설계상 [[Desc]](../wifi/0.html) [[PDF]](../file/2019-wifi/ppt.pdf)**  
-**12.-2020.02. 미국 People Space 인턴십 [[Desc]]()**  
+**08.18.-08.20. [설계] 산지 및 오지 지역 주민을 위한 공공 Wifi 중계장치 설계 - 우수설계상 [[Desc]](../wifi/0.html) [[PDF]](../file/2019-wifi/ppt.pdf)**  
+**01.02.-02.22. 미국 People Space 인턴십 [[Desc]](../peoplespace/0.html)**  
 
 ## 2020  
-**11.06 Corona Virus가 서민 경제에 미친 영향에 대해 데이터 분석 및 시각화 - 장려상**  
-**08. 통일빅데이터센터 KUBiC 자료분석 및 서비스팀 연구 조교**  
+**11.06. [데이터 분석 및 시각화] Corona Virus가 서민 경제에 미친 영향 - 장려상 [[Desc]](../covid/0.html) [[PDF]](../file/2020-covid/ppt.pdf)**  
+**08.14.-ing. 통일빅데이터센터 KUBiC 자료분석 및 서비스팀 연구 조교 [[Desc]](../kubic/0.html) [[Github]](https://github.com/cinxdy/TIBigdataOpenAPI)**  
 
 ## 2021  
 **01.06. [Research Essay] Developers Should Know About Raspberry Pi [[PDF]](../file/2021-raspberrypi/ResearchEssay_raspberrypi.pdf)**   
-**01.14.-01.16. [설계] 독거노인을 위한 ARS복약알림서비스.**  
+**01.14.-01.16. [설계] 독거노인을 위한 ARS복약알림서비스 [[Desc]](../silverbeans/0.html) [[PDF]](../file/2021-silverbeans/explanation.pdf)**  
